@@ -1,0 +1,5 @@
+title: LinksOS.org
+description: Official ISO distribution and documentation site for the LinksOS Linux distro.
+theme: minima
+markdown: kramdown
+permalink: pretty
